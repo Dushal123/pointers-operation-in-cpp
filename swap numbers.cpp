@@ -21,3 +21,6 @@ int main() {
 
     return 0;
 }
+Enter two numbers: 10 20
+Before: x=10 y=20
+After: x=20 y=10
